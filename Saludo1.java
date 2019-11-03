@@ -4,5 +4,6 @@ public class Saludo1 {
 		String nombre;
 		nombre = "Mateo";
 		System.out.println("Saludos " + nombre + "!"); 
+
 	}
 }
